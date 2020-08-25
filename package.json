@@ -22,7 +22,7 @@
   "devDependencies": {
     "antiglobal": "^0.1.2",
     "browserify": "^8.1.3",
-    "gulp": "git+https://github.com/gulpjs/gulp.git#4.0",
+    "gulp": "latest",
     "gulp-expect-file": "0.0.7",
     "gulp-filelog": "^0.4.1",
     "gulp-header": "^1.7.1",
